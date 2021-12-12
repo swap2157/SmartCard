@@ -6,8 +6,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/65424a0871211f7bedf3a7953b9371dc/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9507f866e150f6e2dd63773f99027755/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8be1ada2f3070506081324b41c63b66/transformed/animated-vector-drawable-26.1.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f8be1ada2f3070506081324b41c63b66/transformed/animated-vector-drawable-26.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8be1ada2f3070506081324b41c63b66/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/13d0861bb88ed7f030e8bd0013dcaf60/transformed/animated-vector-drawable-26.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/13d0861bb88ed7f030e8bd0013dcaf60/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/13d0861bb88ed7f030e8bd0013dcaf60/transformed/animated-vector-drawable-26.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
